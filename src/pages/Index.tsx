@@ -388,13 +388,8 @@ const Index: React.FC = () => {
     <main className="min-h-screen bg-[#f6a700] flex items-center justify-center p-4">
       <div className="w-full max-w-5xl">
         <header className="text-center mb-8">
-          <h1 className="text-4xl md:text-5xl font-bold text-[#1a1a1a] mb-3">
-            Email Crawler — Advanced Extraction
-          </h1>
-          <p className="text-base text-[#333333] max-w-3xl mx-auto leading-relaxed">
-            Extract hidden & obfuscated emails from any website. Uses public
-            proxies to bypass CORS.
-          </p>
+          <h1 className="text-4xl md:text-5xl font-bold text-[#1a1a1a] mb-3"></h1>
+          <p className="text-base text-[#333333] max-w-3xl mx-auto leading-relaxed"></p>
         </header>
 
         <section className="mb-6 space-y-4">
